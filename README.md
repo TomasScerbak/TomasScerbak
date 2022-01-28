@@ -7,4 +7,9 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: will be updated in near future with portfolio webpage
 - ⚡ Fun fact: - 🎸 I love to play on guitar and have a band called TomFrom 😀 [Sample](https://www.youtube.com/watch?v=OyTDlOezZGw).
--->
+
+<br />
+
+### Languages and Tools:
+
+![VS Code icon](C:\Users\tOm\OneDrive\Desktop\HTML_CSS\myGitRepoProfile/vscode.png "MarineGEO logo")
