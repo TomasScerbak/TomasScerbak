@@ -12,4 +12,4 @@
 
 ### Languages and Tools:
 
-![VS Code icon](C:\Users\tOm\OneDrive\Desktop\HTML_CSS\myGitRepoProfile/vscode.png "MarineGEO logo")
+![VS Code icon](\OneDrive\Desktop\HTML_CSS\myGitRepoProfile/vscode.png "MarineGEO logo")
