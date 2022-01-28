@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on Front End Mentor challenges
 - 🌱 I’m currently learning HTML, CSS, JavaScript, GIT
-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about anything
 - 📫 How to reach me: will be updated in near future with portfolio webpage
