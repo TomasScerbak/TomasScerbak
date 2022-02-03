@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Tomas Scerbak aka [DevTom](https://github.com/TomasScerbak)
+## Hi there 👋 my name is Tomas Scerbak aka [DevTom](https://github.com/TomasScerbak)
 
 
 - 🔭 I’m currently working on Front End Mentor challenges
