@@ -6,7 +6,7 @@ my name is Tomas Scerbak from Slovakia aka [DevTom](https://github.com/TomasScer
 
 Skills: HTML / CSS / JS
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TomasScerbak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tomáš-ščerbák-54422765//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/TomasScerbak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tomáš-ščerbák-54422765//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasScerbak)](https://github.com/anuraghazra/github-readme-stats)
 
