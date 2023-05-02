@@ -17,5 +17,5 @@ Skills: HTML / CSS / JS
 - 🌱 I’m currently learning HTML, CSS, JavaScript, GIT, REACT
 - 🤔 I’m looking for help with React
 - 💬 Ask me about anything
-- 📫 How to reach me: https://tomasscerbak.github.io/tomas-scerbak-portfolio/
+- 📫 How to reach me: [https://tomasscerbak.github.io/tomas-scerbak-portfolio/](https://sweet-cat-91a83d.netlify.app)
 - ⚡ Fun fact: - 🎸 I love to play on guitar and have a band called TomFrom 😀 [Sample](https://www.youtube.com/watch?v=OyTDlOezZGw).
