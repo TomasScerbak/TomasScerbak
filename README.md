@@ -4,13 +4,11 @@
 
 my name is Tomas Scerbak from Slovakia aka [DevTom](https://github.com/TomasScerbak) and I'm Project Manager :see_no_evil: by the day and Front-end developer by the night. I work in IT environment for almost 13 years and decided to make a career change as I always missed creativity aspect of my current job. I decided to take front-end path and as soon as I landed my hands on keyboard and wrote first code I love it! Currently I'm learning HTML, CSS, JavaScript and in the near future hopefully I will start with some of the libraries / frameworks.
 
-Skills: HTML / CSS / JS
+Skills: HTML / CSS / JS / TypeScript / React / Redux Toolkit / Git / Figma
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' fill='white'>](https://github.com/TomasScerbak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tomáš-ščerbák-54422765//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasScerbak)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasScerbak)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on Front End Mentor challenges
