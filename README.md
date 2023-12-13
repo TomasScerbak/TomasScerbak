@@ -2,7 +2,7 @@
 #### Front-end developer, ServiceNow Developer
 ![Front-end developer](https://pratikjagrut.dev/img/git/github.png)
 
-my name is Tomas Scerbak from Slovakia aka [DevTom](https://github.com/TomasScerbak) and I'm ServiceNow Developer :see_no_evil:. I work in IT environment for almost 13 years and decided to make a career change as I always missed creativity aspect of my current job. I decided to take front-end path and as soon as I landed my hands on keyboard and wrote first code I love it! Currently I'm learning ServiceNow developement.
+my name is Tomas Scerbak from Slovakia aka [DevTom](https://github.com/TomasScerbak) and I'm ServiceNow Developer. I work in IT environment for almost 13 years and decided to make a career change as I always missed creativity aspect of my current job. I decided to take front-end path and as soon as I landed my hands on keyboard and wrote first code I love it! Currently I'm learning ServiceNow developement.
 
 Skills: HTML / CSS / JS / TypeScript / React / Redux Toolkit / Git / Figma / ServiceNow Certified System Administrator / ServiceNow Certified Application Developer
 
